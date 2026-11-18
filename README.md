@@ -138,8 +138,10 @@ This project is currently developed for academic purposes. Licensing details may
 
 ---
 
-\<p align="center">
-&#x20; \<strong>Presenza — Scan. Attend. Simplify.\</strong>
-&#x20; \<br>
-&#x20; Made with ❤️ for smarter university attendance.
-\</p>
+---
+
+<p align="center">
+  <strong>Presenza — Scan. Attend. Simplify.</strong>
+  <br />
+  Made with ❤️ for smarter university attendance.
+</p>

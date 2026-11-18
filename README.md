@@ -1,20 +1,12 @@
 # 🎓 Presenza
 
-### Smart University Attendance Management System
+Smart University Attendance Management System
 
-\<p align="center">
-&#x20; \<strong>Scan. Attend. Simplify.\</strong>
-\</p>
+<p align="center">   <strong>Scan. Attend. Simplify.</strong> </p>
 
-\<p align="center">
-&#x20; A modern mobile application that digitalizes university attendance management using QR Code technology.
-\</p>
+<p align="center">   A modern mobile application that digitalizes university attendance management using QR Code technology. </p>
 
-\<p align="center">
-&#x20; \<img src="[https://img.shields.io/badge/Project-Mobile%20Application-blue?style=for-the-badge](https://img.shields.io/badge/Project-Mobile%20Application-blue?style=for-the-badge)" alt="Mobile Application">
-&#x20; \<img src="[https://img.shields.io/badge/Technology-QR%20Code-0f766e?style=for-the-badge](https://img.shields.io/badge/Technology-QR%20Code-0f766e?style=for-the-badge)" alt="QR Code">
-&#x20; \<img src="[https://img.shields.io/badge/Status-In%20Development-orange?style=for-the-badge](https://img.shields.io/badge/Status-In%20Development-orange?style=for-the-badge)" alt="In Development">
-\</p>
+<p align="center">   <img src="https://img.shields.io/badge/Project-Mobile%20Application-blue?style=for-the-badge" alt="Mobile Application" />   <img src="https://img.shields.io/badge/Technology-QR%20Code-0f766e?style=for-the-badge" alt="QR Code" />   <img src="https://img.shields.io/badge/Status-In%20Development-orange?style=for-the-badge" alt="In Development" /> </p>
 
 ---
 
